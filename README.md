@@ -1,16 +1,22 @@
 # Lab 8: AWS VPC Networking
 
-Your résumé says EC2, VPC, IAM. This lab makes that **defensible**: one VPC,
-two subnets, real routing and firewall behavior — built with the AWS CLI,
-broken on purpose, then troubleshot like a NOC engineer would.
+Your résumé says EC2, VPC, IAM. This lab is the design that makes that
+**defensible**: one VPC, two subnets, real routing and firewall behavior —
+specified end to end, with AWS CLI build/cleanup scripts, ready to build in
+your own AWS account, break on purpose, and troubleshoot like a NOC engineer
+would. (Status: designed and documented; the build itself is the pending
+step — see the résumé line below.)
 
-> **Résumé line:** *Built and troubleshot an AWS VPC (public/private subnets,
-> route tables, IGW, security groups vs NACLs) using the AWS CLI — including
-> 4 deliberate misconfiguration drills with root-cause write-ups.*
+> **Résumé line:** *Designed and documented an AWS VPC build (public/private
+> subnets, route tables, IGW, security groups vs NACLs) with AWS CLI
+> build/cleanup scripts and 4 misconfiguration drill scenarios with
+> root-cause write-ups.*
 >
 > **Don't claim:** *"I run production AWS infrastructure."* This is a
-> lab in your own AWS account, built to prove you understand cloud networking
-> instead of just listing "AWS" as a keyword.
+> build guide for a lab in your own AWS account — the design, scripts and
+> drills are complete, and actually running them is the step that turns the
+> résumé line above into "built and troubleshot." It's written to prove you
+> understand cloud networking instead of just listing "AWS" as a keyword.
 
 **Lab series:** [Lab 1](https://github.com/kn2702-sys/enterprise-vlan-lab) · [Lab 2](https://github.com/kn2702-sys/dhcp-dns-failure-lab) · [Lab 3](https://github.com/kn2702-sys/LAB-3-Multi-Router-OSPF-Network) · [Lab 4](https://github.com/kn2702-sys/LAB-4-ACL-NAT-Internet-Edge) · [Lab 5](https://github.com/kn2702-sys/LAB-5-Site-to-Site-VPN-Firewall) · [Lab 6](https://github.com/kn2702-sys/LAB-6-Wireshark-NOC-Troubleshooting) · [Lab 7](https://github.com/kn2702-sys/LAB-7-NOC-Incident-Simulation) · **Lab 8**
 
