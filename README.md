@@ -18,7 +18,7 @@ step — see the résumé line below.)
 > résumé line above into "built and troubleshot." It's written to prove you
 > understand cloud networking instead of just listing "AWS" as a keyword.
 
-**Lab series:** [Lab 1](https://github.com/kn2702-sys/enterprise-vlan-lab) · [Lab 2](https://github.com/kn2702-sys/dhcp-dns-failure-lab) · [Lab 3](https://github.com/kn2702-sys/LAB-3-Multi-Router-OSPF-Network) · [Lab 4](https://github.com/kn2702-sys/LAB-4-ACL-NAT-Internet-Edge) · [Lab 5](https://github.com/kn2702-sys/LAB-5-Site-to-Site-VPN-Firewall) · [Lab 6](https://github.com/kn2702-sys/LAB-6-Wireshark-NOC-Troubleshooting) · [Lab 7](https://github.com/kn2702-sys/LAB-7-NOC-Incident-Simulation) · **Lab 8**
+**Lab series:** [Lab 1](https://github.com/kn2702-sys/enterprise-vlan-lab) · [Lab 2](https://github.com/kn2702-sys/dhcp-dns-failure-lab) · [Lab 3](https://github.com/kn2702-sys/LAB-3-Multi-Router-OSPF-Network) · [Lab 4](https://github.com/kn2702-sys/LAB-4-ACL-NAT-Internet-Edge) · [Lab 5](https://github.com/kn2702-sys/LAB-5-Site-to-Site-VPN-Firewall) · [Lab 6](https://github.com/kn2702-sys/LAB-6-Wireshark-NOC-Troubleshooting) · [Lab 7](https://github.com/kn2702-sys/LAB-7-NOC-Incident-Simulation) · **Lab 8** · [Lab 9](https://github.com/kn2702-sys/LAB-9-BGP-Fundamentals)
 
 ---
 
